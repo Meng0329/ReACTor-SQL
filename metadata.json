@@ -1,0 +1,5 @@
+{
+  "name": "DataAgent SQL ReAct (CN)",
+  "description": "基于 React Agent 的自然语言转 SQL 系统。支持多表上传、Alasql 本地查询、自动纠错与重试。全中文界面与交互。",
+  "requestFramePermissions": []
+}
