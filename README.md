@@ -1,6 +1,6 @@
-# DataAgent SQL React
+# ReACTor-SQL
 
-DataAgent SQL React 是一个基于人工智能的数据代理应用，允许用户通过自然语言查询数据库并获得结构化结果。该项目使用 React 和 TypeScript 构建，集成了大型语言模型（LLM）来理解和转换自然语言为 SQL 查询。
+ReACTor-SQL 是一个基于人工智能的数据代理应用，允许用户通过自然语言查询数据库并获得结构化结果。该项目使用 React 和 TypeScript 构建，集成了大型语言模型（LLM）来理解和转换自然语言为 SQL 查询。
 
 ## 功能特点
 
@@ -14,7 +14,8 @@ DataAgent SQL React 是一个基于人工智能的数据代理应用，允许用
 
 - Node.js >= 16.x
 - npm >= 8.x
-- Gemini API 密钥（用于 LLM 服务）
+- Node.js >= 16.x
+- npm >= 8.x
 
 ## 安装步骤
 
@@ -29,11 +30,8 @@ DataAgent SQL React 是一个基于人工智能的数据代理应用，允许用
    npm install
    ```
 
-3. 配置环境变量：
-   在项目根目录创建 `.env.local` 文件，并添加以下内容：
-   ```
-   GEMINI_API_KEY=your_gemini_api_key_here
-   ```
+3. （可选）配置环境变量：
+   用户可以在网页界面上直接配置 base_url、api-key 和 model 参数，无需预先配置环境变量。
 
 ## 基本使用方法
 
@@ -76,7 +74,7 @@ DataAgent SQL React 是一个基于人工智能的数据代理应用，允许用
 
 1. 本项目仅在本地环境中执行 SQL 查询，不会连接到外部数据库
 2. 为保证安全性，请勿在生产环境中使用此应用处理敏感数据
-3. 需要有效的 Gemini API 密钥才能使用 LLM 功能
+3. 用户可以在网页界面上直接配置 LLM 服务参数（base_url、api-key 和 model）
 4. 项目使用 alasql 在浏览器中执行 SQL，功能有限，不支持复杂查询
 
 ## 开发命令
