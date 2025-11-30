@@ -46,6 +46,12 @@ ReACTor-SQL 是一个基于人工智能的数据代理应用，允许用户通�
 
 4. 系统将自动生成 SQL 查询并在本地执行，返回结果
 
+## 演示视频
+
+https://github.com/Meng0329/ReACTor-SQL/assets/Video-Project.mp4
+
+为了更好地展示 ReACTor-SQL 的功能，我们提供了一个演示视频。该视频展示了如何使用自然语言查询数据库并获取结果的完整流程。您可以直接点击上面的链接观看视频，或者在项目根目录下找到 `Video Project.mp4` 文件进行本地播放。
+
 ## 项目结构
 
 ```
