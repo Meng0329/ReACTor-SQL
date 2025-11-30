@@ -6,15 +6,9 @@ ReACTor-SQL 是一个基于人工智能的数据代理应用，允许用户通�
 
 为了更好地展示 ReACTor-SQL 的功能，我们提供了一个演示视频。该视频展示了如何使用自然语言查询数据库并获取结果的完整流程。
 
-[点击这里观看演示视频](https://github.com/Meng0329/ReACTor-SQL/releases/latest/download/demo-video.mp4)
+[点击这里下载演示视频](https://github.com/Meng0329/ReACTor-SQL/raw/main/Video%20Project.mp4)
 
-> **注意**：GitHub对直接在README中嵌入视频的支持有限。点击上面的链接可以直接下载视频文件，您可以在本地播放器中观看。如果您希望在线观看，请将视频文件下载到本地后使用支持MP4格式的播放器打开。
-
-<!-- 如果您的浏览器支持，可以尝试下面的播放器 -->
-<!-- <video width="100%" controls>
-  <source src="https://github.com/Meng0329/ReACTor-SQL/releases/latest/download/demo-video.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。
-</video> -->
+> **注意**：点击上面的链接可以直接下载视频文件，您可以在本地播放器中观看。
 
 ## 功能特点
 
