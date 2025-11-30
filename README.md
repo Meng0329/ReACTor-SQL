@@ -2,6 +2,16 @@
 
 ReACTor-SQL 是一个基于人工智能的数据代理应用，允许用户通过自然语言查询数据库并获得结构化结果。该项目使用 React 和 TypeScript 构建，集成了大型语言模型（LLM）来理解和转换自然语言为 SQL 查询。
 
+## 演示视频
+
+为了更好地展示 ReACTor-SQL 的功能，我们提供了一个演示视频。该视频展示了如何使用自然语言查询数据库并获取结果的完整流程。
+
+https://github.com/Meng0329/ReACTor-SQL/raw/main/Video%20Project.mp4
+
+<video src="https://github.com/Meng0329/ReACTor-SQL/raw/main/Video%20Project.mp4" controls="controls" width="100%">
+  您的浏览器不支持视频播放。
+</video>
+
 ## 功能特点
 
 - 自然语言转 SQL 查询
@@ -45,12 +55,6 @@ ReACTor-SQL 是一个基于人工智能的数据代理应用，允许用户通�
 3. 在聊天界面中输入自然语言查询，例如："显示用户表中的所有数据"
 
 4. 系统将自动生成 SQL 查询并在本地执行，返回结果
-
-## 演示视频
-
-https://github.com/Meng0329/ReACTor-SQL/assets/Video-Project.mp4
-
-为了更好地展示 ReACTor-SQL 的功能，我们提供了一个演示视频。该视频展示了如何使用自然语言查询数据库并获取结果的完整流程。您可以直接点击上面的链接观看视频，或者在项目根目录下找到 `Video Project.mp4` 文件进行本地播放。
 
 ## 项目结构
 
